@@ -1,0 +1,4 @@
+message: "Hello Word from Github Config Server"
+
+server:
+  port: 8081
